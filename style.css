@@ -1,0 +1,17 @@
+/* margin */
+.mg-tp-20 {
+    margin-top: 20px;
+}
+
+/* padding */
+.pd-tp-bt-100 {
+    padding: 100px 0px;
+}
+
+.workspace {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 315px; 
+}
+
+
